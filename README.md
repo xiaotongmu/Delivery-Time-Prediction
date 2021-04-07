@@ -1,5 +1,5 @@
 # Delivery-Time-Prediction
-###1 Introduction
+### 1 Introduction
 
 Delivery time prediction has long been a part of city logistics, It is important for customer satisfaction
 that the initial prediction is highly accurate and that any delays are communicated effectively.
@@ -12,7 +12,7 @@ minimal amount.
 • Food should not be delivered too late as the customer will be left waiting and angry and not
 too early as it will have to sit out before the customer is ready to eat it.
 
-###2 Analyze, identify patterns, and explore the data
+### 2 Analyze, identify patterns, and explore the data
 
 As an input to our model, we have five categories of data:Time Features, Store Features, Order
 Features, Market Features, Predictions From Other Models
